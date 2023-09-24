@@ -1,0 +1,2 @@
+NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.It also has functions for working in domain of linear algebra, fourier transform, and matrices.
+Various operations can be performed into it like addition, subtraction ,multiplication and division between two or more arrays. We can also arrange , sort and manipulate arrays easilt with the help of this liberary.

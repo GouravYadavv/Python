@@ -1,0 +1,7 @@
+Dynamic programming is a technique of breaking down a problem into smaller problems, solving each sub-problems once, storing the solutions of these sub-problems, and eventually finding a solution to the original problem. We break down a big problem into smaller problems.
+
+This helps us to deal with the one of the main drawback of the recursion that's why we can also say that it is the advance form of recursion. The problem with the recursion was that it can't store the answer of a subproblem in it's memory and had to calculate it again and again which cause unnecessary memory allocation. In Dynamic programming the same subproblem is not solved again and again so it is much faster and less time consuming.
+
+It has 2 different approaches:
+1. Memoization- It is also known as top-bottom approach. It is based on the recursion method.
+2. Tabulation- It is also known as bottom-top approach. It is based on the iterative method.

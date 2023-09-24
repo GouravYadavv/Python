@@ -1,0 +1,2 @@
+0/1 Knapsack
+In this we will be given a bag with a fixed capacity and various items with different quantity and weight. We will have to fill that bag in such a way to maximize the output and we either have to take a complete item or None. We don't have any option to take fraction of it or a part of item and it does't follow greedy approach. It follows recursive approach.

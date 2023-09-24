@@ -1,0 +1,16 @@
+Namespace- it is a space that holds the names(identifiers)
+		or
+Namespace are dictionaries of identififers(keys) and their objects(values).
+
+Their are 4 types of namespaces-
+1. Local Namespace
+2. Enclosing Namespace
+3. Global Namespace
+4. Built in Namespace
+
+
+Decorators - They are the functions in python that receives another function as input and adds some functionality to it and returns it.
+
+They are of 2 types:
+1. Builtin decoratoes- @staticmethod, @classmethod, @abstractmethod and @property etc.
+2. User defined decorators- that are defined by the user manually according to their needs.

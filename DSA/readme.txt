@@ -1,0 +1,1 @@
+DSA- It Stands for data structures and algorithms, which is the functional approach to solve any question.

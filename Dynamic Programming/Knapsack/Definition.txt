@@ -1,0 +1,4 @@
+This is of 3 types:
+1. Fractional Knapsack.- It follows greedy approach.
+2. 0-1 Knapsack.- It follows recursive approach.
+3. Unbounded Knapsack.

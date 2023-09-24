@@ -1,0 +1,12 @@
+Hash maps are indexed data structures. A hash map makes use of a hash function to compute an index with a key into an array of buckets or slots. Its value is mapped to the bucket with the corresponding index. The key is unique and immutable.
+
+In python we have predefined Hash function which we know by the name of Dictionaries.
+
+Hash function is the core of implementing a hash map. It takes in the key and translates it to the index of a bucket in the bucket list. Ideal hashing should produce a different index for each key. However, collisions can occur. When hashing gives an existing index, we can simply use a bucket for multiple values by appending a list or by rehashing.
+
+For each value to get assigned to the key we first initialize the key, which makes our code lengthy. So to overcome this headache of initializing a key again and again we have a special type of dictionary in python known as DefaultDict.
+
+Here we also have some function to retrieve data form the HashMap:
+1. hashmap.keys() - It is helpful to get the keys only.
+2. hashmap.values() - It is used to get the values assigned to a key.
+3. hashmap.items() - It is the combination of the 2 above which is used to get both keys and values assigned to them. 
